@@ -13,7 +13,7 @@ Classfile /Users/zhangchenghui/Documents/jvm-learning/src/com/objcoding/jvm/exce
   Last modified 2018-9-8; size 653 bytes
   MD5 checksum ef4af322a9c9b8a2bc1cb1726671d4a1
   Compiled from "Foo.java"
-public class com.objcoding.jvm.exception.Foo
+public class com.objcoding.jvm.jvmHowToHandleException.Foo
   minor version: 0
   major version: 52
   flags: ACC_PUBLIC, ACC_SUPER
@@ -67,7 +67,7 @@ Constant pool:
     descriptor: I
     flags: ACC_PRIVATE
 
-  public com.objcoding.jvm.exception.Foo();
+  public com.objcoding.jvm.jvmHowToHandleException.Foo();
     descriptor: ()V
     flags: ACC_PUBLIC
     Code:

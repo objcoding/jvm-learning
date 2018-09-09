@@ -1,4 +1,4 @@
-package com.objcoding.jvm.exception;
+package com.objcoding.jvm.jvmHowToHandleException;
 
 /**
  * @author zhangchenghui.dev@gmail.com
